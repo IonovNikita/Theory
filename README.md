@@ -7,7 +7,7 @@
 
 
 
-Анализ требований:
+Анализ требований web приложения на основании документации:
 [Ссылка на документ](https://docs.google.com/spreadsheets/d/1vfI4G-aCJ4NsFb-hreWExPZSH72ccvezFHf_nTEZcz0/edit?gid=1776886247#gid=1776886247)
 
 Пользвательские истории: 
